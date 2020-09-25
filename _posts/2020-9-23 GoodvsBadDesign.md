@@ -1,5 +1,10 @@
 # GoodvsBadDesign HW
 
+---
+layout: post
+title: Good vs. Bad Design HW
+subtitle: by Ethan Fry
+
   In this post, I am going to be talking about well designed elevator buttons vs. poorly designed elevator buttons.
   
 ![Badly designed arrows](https://intavant.com/wp-content/uploads/2014/02/main-qimg-dc3eca8b85a872f4394c0d2d1beec550.png "Badly designed arrows")
