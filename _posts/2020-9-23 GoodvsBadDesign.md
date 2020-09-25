@@ -4,6 +4,7 @@
 layout: post
 title: Good vs. Bad Design HW
 subtitle: by Ethan Fry
+---
 
   In this post, I am going to be talking about well designed elevator buttons vs. poorly designed elevator buttons.
   
