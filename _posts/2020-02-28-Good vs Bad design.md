@@ -1,3 +1,4 @@
+# Fly on the Wall Lab
 ---
 layout: post
 title: Good vs. Bad design HW
