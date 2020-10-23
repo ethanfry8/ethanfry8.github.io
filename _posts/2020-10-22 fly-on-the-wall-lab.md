@@ -1,9 +1,11 @@
 # Fly on the Wall Lab
 
 ---
+
 layout: post
 title: Fly on the Wall Lab
 subtitle: by Ethan Fry
+
 ---
 Grouping of In-person school observations
 
