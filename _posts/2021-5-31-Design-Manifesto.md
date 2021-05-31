@@ -7,6 +7,15 @@ subtitle: by Ethan Fry
 ---
 
 
+5 Principal Ideals
+1. Put users first
+2. Be open-minded and don’t shut down ideas
+3. Learn from mistakes
+4. Think through ideas before designing them
+5. Be ambitious
+
+
+  
   When it comes to accessibility within designs, putting your users as the top priority is the key to success. If your users are being catered to, and 
   you are actively listening to their feedback and their advice, your design will be successful. But, it still is important to have your own separate agenda 
   with your own ideas and additions to your design so that you can apply your agenda and also mix in the agenda of your users. From playing a game like Fortnite 
@@ -27,14 +36,14 @@ subtitle: by Ethan Fry
   the viable ideas are well-developed and thought out. Lastly, being ambitious with your design is the key to it being unique and appealing to users. If you aren’t
   ambitious enough, your design will most likely be boring and plain, and nobody is ever going to want to use it. So, I believe that starting off with a bunch of 
   ambitious ideas is a great way to start off so you can determine what ideas are too ambitious, just ambitious enough, and not ambitious enough. As a result, 
-  starting off with these big and ambitious ideas leads to successful designs. All of these 5 main principles are what it takes to create successful designs.
-	Now, I am going to be talking about these 5 principles and how they were applied in our year-long design called HM Comms. Firstly, putting our users first was 
-  pretty much the approach to accessibility we had all year as we had many usability tests with users all over our campus, and from a wide variety of students. 
-  For our first three tests, we used our paper prototype [Insert picture of paper prototype], and we would go through our pages and ask each user for their genuine 
+  starting off with these big and ambitious ideas leads to successful designs. All of these 5 main principles are what it takes to create successful designs. 
+  
+  Now, I am going to be talking about these 5 principles and how they were applied in our year-long design called HM Comms. Firstly, putting our users first was  pretty much the approach to accessibility we had all year as we had many usability tests with users all over our campus, and from a wide variety of students. 
+ For our first three tests, we used our paper prototype [Insert picture of paper prototype], and we would go through our pages and ask each user for their genuine 
   thoughts on each slide, and we encouraged them to say whatever came to their mind as each comment would help our design even more. For our design, we tried 
   to use a hub and spoke model to the best of our ability, as each task that was trying to be completed by our design would always loop back to our main page.
   Then, we did a digital prototype check in with revised changes from our paper prototype and again had a similar interview process to the first three usability
-  tests. These tests allowed us to put user’s ideas and feedback at the top of our priority, and most of the feedback we implemented and it did significantly 
+  tests. These tests allow	ed us to put user’s ideas and feedback at the top of our priority, and most of the feedback we implemented and it did significantly 
   improve our design. Furthermore, when we first started brainstorming our ideas for the year, we had multiple meetings where we just simply went through ideas 
   that everyone would have, and we would even try to mix certain ideas together to create a better design. During these meetings, all three of the people in our
   group were highly optimistic and never shut down ideas which led to an extremely successful final design that we have now with our digital prototype[Insert the 
@@ -47,5 +56,5 @@ subtitle: by Ethan Fry
   a reward system for filling out polls, and we also wanted to even make answering polls mandatory. These ideas were great, but they weren’t viable, so we weren’t able
   to implement them, but we were being ambitious which was important because it did lead to some very unique and creative designs like having each club have their 
   individual polls and meetings page. By using these 5 principles in our own design, we were able to have a very successful outcome.
-	Lastly, I think that our 5 principal ideas which are extremely useful and pertinent to creating successful designs, I think can go even further than design and 
-  can be applied to life long ideals. 
+  
+  In conclusion, I think that our 5 principal ideas which are extremely useful and pertinent to creating successful designs, I think can go even further than design and can be applied to life long ideals. For our first ideal, putting users first can be interpreted as putting your close ones first whether that is your friends or family, and making sure you have a small circle of people, so you know who is truly your family. Secondly, in whatever situation or job you are in, you always have to be open-minded as it is a quality that eveyrone values heavily, and it will make you a better, smarter, and more friendly person which will lead to great success in all aspects of life. Furthermore, learning from mistakes is extremely important because if you don't make mistakes in the first place you will never know what is right and what is wrong. Also, learning from these wrongdoings allows you to realize the right thing to do, and apply that to your future. Thinking through ideas is another big life lesson that can be greatly useful as ideas that have thought will always be successful, and you will be using your time to the maximum efficiency. Lastly, being ambitious is probably the most important principle that I have listed because if you are not ambitious, you will be unhappy. But, if you are ambitious an follow your goals and dreams, you will be happy, and when you are happy, you will be successful in your own right. All of these 5 principles have many uses, and following them can lead to a successful design, idea, or overall life.
