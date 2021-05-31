@@ -1,7 +1,13 @@
-### Design Manifesto
+# Design Manifesto
+
+---
+layout: post
+title: Design Manifesto
+subtitle: by Ethan Fry
+---
 
 
-	When it comes to accessibility within designs, putting your users as the top priority is the key to success. If your users are being catered to, and 
+  	When it comes to accessibility within designs, putting your users as the top priority is the key to success. If your users are being catered to, and 
   you are actively listening to their feedback and their advice, your design will be successful. But, it still is important to have your own separate agenda 
   with your own ideas and additions to your design so that you can apply your agenda and also mix in the agenda of your users. From playing a game like Fortnite 
   which has tons of feedback on their updates, it is quite clear that they have decided to ignore their users feedback when updating their game. As a result, the 
