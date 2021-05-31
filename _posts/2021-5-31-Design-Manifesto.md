@@ -63,9 +63,15 @@ subtitle: by Ethan Fry
   ![Page16](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page16.png)
   ![Page17](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page17.png) 
   
-  Furthermore, in our paper prototype, we had many gaps in our design as some buttons wouldn’t lead to another page. [Insert an example 
-  of a button that wouldn’t lead to another page]. This is a prime example of this issue, so we learned from this mistake, and rectified it in the final design.
-  [Insert image of it being fixed] Before we started designing anything, we had months of preparation and thinking through our ideas before we started designing.
+  Furthermore, in our paper prototype, we had many gaps in our design as some buttons wouldn’t lead to another page.
+  
+  ![BadPage](https://github.com/ethanfry8/ethanfry8.github.io/blob/b5b0d9f80f6738f2f61d47b95247ede58630132f/PaperPrototype1.png)
+  
+  This is a prime example of this issue, so we learned from this mistake, and rectified it in the final design by adding another page that would show the club rooms. And this is the slide that fixed the issue from the paper prototype.
+  
+  ![Page10](https://github.com/ethanfry8/ethanfry8.github.io/blob/b5b0d9f80f6738f2f61d47b95247ede58630132f/Page10.png)
+  
+  Before we started designing anything, we had months of preparation and thinking through our ideas before we started designing.
   We went through multiple stages of learning about design tactics like surveys, interviews, usability tests, and more which all led us to more informed decisions. 
   Furthermore, we went through all of our ideas and made sure they were possible, yet creative. Lastly, our team was extremely ambitious when we started the design
   process as we firstly wanted to create a whole map of our campus and allow people to see where their own club meeting for that day was. Also, we wanted to create
