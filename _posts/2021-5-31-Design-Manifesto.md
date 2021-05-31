@@ -46,8 +46,27 @@ subtitle: by Ethan Fry
   tests. These tests allow	ed us to put user’s ideas and feedback at the top of our priority, and most of the feedback we implemented and it did significantly 
   improve our design. Furthermore, when we first started brainstorming our ideas for the year, we had multiple meetings where we just simply went through ideas 
   that everyone would have, and we would even try to mix certain ideas together to create a better design. During these meetings, all three of the people in our
-  group were highly optimistic and never shut down ideas which led to an extremely successful final design that we have now with our digital prototype[Insert the 
-  digital prototype here]. Furthermore, in our paper prototype, we had many gaps in our design as some buttons wouldn’t lead to another page. [Insert an example 
+  group were highly optimistic and never shut down ideas which led to an extremely successful final design that we have now with our digital prototype.
+  
+  ![Page1](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page1.png)
+  ![Page2](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page2.png)
+  ![Page3](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page3.png)
+  ![Page4](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page4.png)
+  ![Page5](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page5.png)
+  ![Page6](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page6.png)
+  ![Page7](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page7.png)
+  ![Page8](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page8.png)
+  ![Page9](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page9.png)
+  ![Page10](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page10.png)
+  ![Page11](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page11.png)
+  ![Page12](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page12.png)
+  ![Page13](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page13.png)
+  ![Page14](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page14.png)
+  ![Page15](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page15.png)
+  ![Page16](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page16.png)
+  ![Page17](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page17.png) 
+  
+  Furthermore, in our paper prototype, we had many gaps in our design as some buttons wouldn’t lead to another page. [Insert an example 
   of a button that wouldn’t lead to another page]. This is a prime example of this issue, so we learned from this mistake, and rectified it in the final design.
   [Insert image of it being fixed] Before we started designing anything, we had months of preparation and thinking through our ideas before we started designing.
   We went through multiple stages of learning about design tactics like surveys, interviews, usability tests, and more which all led us to more informed decisions. 
