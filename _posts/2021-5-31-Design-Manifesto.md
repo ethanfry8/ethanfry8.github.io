@@ -14,7 +14,6 @@ subtitle: by Ethan Fry
 4. Think through ideas before designing them
 5. Be ambitious
 
-
   
   When it comes to accessibility within designs, putting your users as the top priority is the key to success. If your users are being catered to, and 
   you are actively listening to their feedback and their advice, your design will be successful. But, it still is important to have your own separate agenda 
