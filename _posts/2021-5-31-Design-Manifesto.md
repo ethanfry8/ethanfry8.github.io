@@ -39,14 +39,11 @@ subtitle: by Ethan Fry
   starting off with these big and ambitious ideas leads to successful designs. All of these 5 main principles are what it takes to create successful designs. 
   
   Now, I am going to be talking about these 5 principles and how they were applied in our year-long design called HM Comms. Firstly, putting our users first was  pretty much the approach to accessibility we had all year as we had many usability tests with users all over our campus, and from a wide variety of students. 
- For our first three tests, we used our paper prototype [Insert picture of paper prototype], and we would go through our pages and ask each user for their genuine 
-  thoughts on each slide, and we encouraged them to say whatever came to their mind as each comment would help our design even more. For our design, we tried 
-  to use a hub and spoke model to the best of our ability, as each task that was trying to be completed by our design would always loop back to our main page.
-  Then, we did a digital prototype check in with revised changes from our paper prototype and again had a similar interview process to the first three usability
-  tests. These tests allow	ed us to put user’s ideas and feedback at the top of our priority, and most of the feedback we implemented and it did significantly 
-  improve our design. Furthermore, when we first started brainstorming our ideas for the year, we had multiple meetings where we just simply went through ideas 
-  that everyone would have, and we would even try to mix certain ideas together to create a better design. During these meetings, all three of the people in our
-  group were highly optimistic and never shut down ideas which led to an extremely successful final design that we have now with our digital prototype.
+ For our first three tests, we used our paper prototype, and we would go through our pages and ask each user for their genuine thoughts on each slide, and we encouraged them to say whatever came to their mind as each comment would help our design even more.
+ 
+ ![PaperPrototype](https://github.com/ethanfry8/ethanfry8.github.io/blob/7406f0070a54eea47847817a4f86af764269441e/IMG_2748.png)
+ 
+  For our design, we tried to use a hub and spoke model to the best of our ability, as each task that was trying to be completed by our design would always loop       back to our main page. Then, we did a digital prototype check in with revised changes from our paper prototype and again had a similar interview process to the     first three usability tests. These tests allow	ed us to put user’s ideas and feedback at the top of our priority, and most of the feedback we implemented and it     did significantly improve our design. Furthermore, when we first started brainstorming our ideas for the year, we had multiple meetings where we just simply went   through ideas that everyone would have, and we would even try to mix certain ideas together to create a better design. During these meetings, all three of the       people in our group were highly optimistic and never shut down ideas which led to an extremely successful final design that we have now with our digital      prototype.
   
   ![Page1](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page1.png)
   ![Page2](https://github.com/ethanfry8/ethanfry8.github.io/blob/df81b2108485241deb23793c76297f9f9629a7f8/Page2.png)
